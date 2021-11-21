@@ -1,5 +1,5 @@
 
-#Implementation
+## Implementation
 A simple logging was implemented. (AndroidLoggingUtility)
 
 
